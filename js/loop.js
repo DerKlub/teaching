@@ -9,4 +9,4 @@ for (let i = 0; i < n; i++)
 }
 
 let x = Math.floor(Math.random())
-console.log(x)
+console.log(`x = ${x}`)
