@@ -46,7 +46,7 @@ def loop2(n, m):
 
 if __name__ == "__main__":
     n = 10
-    m = 4515
+    m = 10
 
     #loop1(n,m)
     loop2(n, m)
